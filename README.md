@@ -42,13 +42,6 @@ pip install -r requirements.txt
 python predictor.py
 ```
 
-## 📄 Dataset Format (`student.csv`)
-
-| Hours | Score |
-|-------|-------|
-| 2.5   | 21    |
-| 5.1   | 47    |
-| ...   | ...   |
 
 ## 🚀 Example Output
 
